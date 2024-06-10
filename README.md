@@ -27,3 +27,4 @@ This script transforms and loads the taxi trip and weather data, updating master
 Local Visualisations:
 This script generates visualizations for the processed data using Plotly.
 
+Script 09 and 10 uses the same functions, but in AWS environment!
