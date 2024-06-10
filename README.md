@@ -1,7 +1,6 @@
 # Chicago-taxi-data-and-weather-report
 This project is a comprehensive data pipeline designed for extracting, transforming, and analyzing various datasets related to Chicago taxi-and weather data, including JSON data scraping, web scraping, taxi trip data retrieval, weather data processing, and data transformation for mapping and visualization. 
 
-Chicago Data Analysis
 This repository contains several scripts for data extraction, transformation, and analysis related to the city of Chicago. The scripts cover various tasks including JSON scraping, web scraping, fetching and processing taxi and weather data, creating date dimensions, and integrating data for mapping and visualization.
 
 Json Scraping:
