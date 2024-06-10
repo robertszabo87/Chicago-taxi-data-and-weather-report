@@ -4,16 +4,6 @@ This project is a comprehensive data pipeline designed for extracting, transform
 Chicago Data Analysis
 This repository contains several scripts for data extraction, transformation, and analysis related to the city of Chicago. The scripts cover various tasks including JSON scraping, web scraping, fetching and processing taxi and weather data, creating date dimensions, and integrating data for mapping and visualization.
 
-Table of Contents
-Json Scraping
-Web Scraping
-Get Taxi Data
-Get Weather Data
-Date Dimension
-Chicago Data to Mapping
-Transform Load
-Local Visualisations
-
 Json Scraping
 This script reads and parses a JSON file containing Spotify playlist data.
 
